@@ -434,12 +434,6 @@ header {
   gap: 2rem;
 }
 
-.copyright {
-  font-size: 0.9rem;
-  font-weight: 500;
-  color:#06080e;
-}
-
 .footer__form {
   display: flex;
   align-items: center;
